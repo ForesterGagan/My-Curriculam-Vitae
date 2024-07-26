@@ -97,19 +97,17 @@ I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a 
 |||||
 |21- 25 January 2024|FCPF and ART TREES: Technical Training Workshop on REDD+ Emission Reduction Measurement, Reporting and Verification (30hours)|[REDD + Implemmentation center](https://redd.gov.np/),[SilvaCarbon](https://www.silvacarbon.org/),  [FCPF](https://www.forestcarbonpartnership.org/sites/default/files/documents/nepal_ermr_ghg_accounting_nov_2023_final.pdf), [The WorldBank Group Nepal](https://www.worldbank.org/en/home)|[German Obando - Vargas](https://www.linkedin.com/in/german-obando-vargas-24b70319/?originalSubdomain=cr)|
 |||||
-|19 Aug - 6 September|Climate Action and Support Transparency Training(CASTT) Programme on GHGs in Seoul,Republic of Korea|**UNFCCC** and Green House Gas Inventory and Research Center, South Korea | [Jeong Eun-hae,President, GIR Korea](https://www.linkedin.com/in/eunhae-jeong-248a40124/)|
+|22-26 July 2024|Earth Observation (LiDAR and GEDI) for forest carbonstocks monitoring in Nepal|ICIMOD, FRTC,SilvaCarbon| [Rajesh Bahadur Thapa](https://www.icimod.org/team/rajesh-bahadur-thapa/) and [Tim Devereux](https://www.linkedin.com/in/timothy-devereux/)|
 |||||
+|19 Aug - 6 September 2024|Climate Action and Support Transparency Training(CASTT) Programme on GHGs in Seoul,Republic of Korea|**UNFCCC**and Green House Gas Inventory and Research Center, South Korea | [Jeong Eun-hae,President, GIR Korea](https://www.linkedin.com/in/eunhae-jeong-248a40124/)|
 
 # \underline{Major Job-Related Trainings as Trainer}
 
 | Duration  | Entitled | Organization|
 |-------|----------------|---------|
 | Regular From 2022 | MS Excel and R Programming Trainer in | [Broadways Infosys](https://broadwayinfosys.com/)|
-||||
 | 14 - 21 Aug, 2023 | Training on Python Programming |[Forest Research and TRaining Center](https://frtc.gov.np/) |
-||||
 | 26 Sept - 5 Oct, 2023  | Statistical Data Analysis and Forest Mapping | [Forest Research and Training Center](https://frtc.gov.np/)|
-||||
 | 4-13 Feb, 2024 | Enhancing Capacity on R Programming for Data Analysis and Carbon Accounting |[REDD+ Implementation center](https://redd.gov.np/)|
 
 # \underline{Workshop and Seminar}
@@ -161,6 +159,5 @@ I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a 
 - **ResearchGate:** [Buddi Sagar Poudel](https://www.researchgate.net/profile/Buddi-Poudel)
 - **Email:** buddi.poudel@gmail.com, buddhi.poudel@nepal.gov.np
 - **Phone:** (+977) 9841460874
-
 
 
