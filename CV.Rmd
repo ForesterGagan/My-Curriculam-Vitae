@@ -17,6 +17,7 @@ header-includes:
   - \fancyfoot[R]{This CV is prepared using R Markdown}  # Footer content
   - \renewcommand{\headrulewidth}{0pt}
   - \usepackage{etoolbox}
+  - \usepackage{array}
   - \AtBeginEnvironment{table}{\vspace{-0.1\baselineskip}}  # Reduce space before tables
 urlcolor: blue
 ---
@@ -134,30 +135,16 @@ I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a 
 5. Dhakal, R., et al. (2023). Developing Stem Taper of Shorea Robusta in the Far-Western Terai of Nepal. *Banko Janakari*, 33(2), 3–10. [DOI](https://doi.org/10.3126/banko.v33i2.58809)
 
 
-# \underline{Reference}
+# \underline{References}
 
-## Shiva Khanal, PhD (Western Sydney University, Australia)
+\small
 
-- **Position:** Under Secretary (Tech.),Climate Change Management Division (CCMD)
-- **Ministry:** Ministry of Forests and Environment, Kathmandu, Nepal
-- **Google Scholar:** [Shiva Khanal](https://scholar.google.com/citations?user=XXXXXXXXXXXX)
-- **Email:** khanalshiva1@gmail.com
-- **Phone:** (+977) 9841492155
-
-## Shes Kanta Bhandari, PhD (University of Western Australia, Perth)
-
-- **Position:** Assistant Professor, Institute of Forestry, Tribhuvan University
-- **Research Interests:** Forest Biometrics, Forest Growth and Yield Modelling, Individual-based Modelling, Forest Inventory
-- **Google Scholar:** [Shes Kanta Bhandari](https://scholar.google.com/citations?user=k9sUEZkAAAAJ)
-- **Email:** shes.bhandari@pc.tu.edu.np
-- **Phone:** (+977) 9765631067
-
-## Buddi Sagar Poudel, PhD (Charles Sturt University, Australia)
-
-- **Position:** Joint Secretary,Climate Change Management Division (CCMD)
-- **Ministry:** Ministry of Forests and Environment, Kathmandu, Nepal
-- **ResearchGate:** [Buddi Sagar Poudel](https://www.researchgate.net/profile/Buddi-Poudel)
-- **Email:** buddi.poudel@gmail.com, buddhi.poudel@nepal.gov.np
-- **Phone:** (+977) 9841460874
-
-
+|Referee 1|Referee 2| Referee 3|
+|--|--|--|
+| **Shiva Khanal PhD** | **Shes Kanta Bhandari PhD** | **Buddi Sagar Poudel, PhD**|
+|Western Sydney University,Australia|University of Western Australia|Charles Sturt University,Australia|
+| Under Secretary (Tech.), Climate Change Management Division (CCMD) | Assistant Professor, Institute of Forestry, Tribhuvan University | Joint Secretary, Climate Change Management Division (CCMD) |
+|  Ministry of Forests and Environment, Kathmandu, Nepal | **Research Interests:** Forest Biometrics, Forest Growth and Yield Modelling, Individual-based Modelling, Forest Inventory | Ministry of Forests and Environment, Kathmandu, Nepal |
+| **Google Scholar:** [Shiva Khanal](https://scholar.google.com/citations?user=XXXXXXXXXXXX) | **Google Scholar:** [Shes Kanta Bhandari](https://scholar.google.com/citations?user=k9sUEZkAAAAJ) | **ResearchGate:** [Buddi Sagar Poudel](https://www.researchgate.net/profile/Buddi-Poudel) |
+| **Email:** khanalshiva1@gmail.com | **Email:** shes.bhandari@pc.tu.edu.np | **Email:** buddi.poudel@gmail.com, buddhi.poudel@nepal.gov.np |
+| **Phone:** (+977) 9841492155 | **Phone:** (+977) 9765631067 | **Phone:** (+977) 9841460874 |
