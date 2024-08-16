@@ -46,7 +46,7 @@ Email: [forester.prakash@gmail.com](mailto:forester.prakash@gmail.com) | Phone: 
     \includegraphics[width=0.2\textwidth]{Photo_Prakash.jpg}
 \end{wrapfigure}
 
-I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a strong educational background in Forestry and Landscape Ecology. My career spans practical experience in forest management and carbon monitoring, driven by a passion for climate science and environmental conservation efforts. I had a significant growth on data analysis and statistical application in any sector data with mastering in MS Excel and R programming in recent years. I am particularly interested in advancing my academic growth in data science and statistical analysis using R programming. I am looking forward to learn from an academic environment to develop data driven approaches to understand the impact of natural disaster on people and ecosystem. Specifically, my research interest encompasses developing an ecosystem service framework linking cultural heritage and promoting disaster resilient communities.
+I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a strong educational background in Forestry and Landscape Ecology. My career spans practical experience in national forest inventory, data analysis, tree biometrics, application of remote sensing and GIS and carbon monitoring. I had a significant growth on data analysis and statistical application in any sector data with mastering in MS Excel, python and R programming in recent years. I am particularly interested in advancing my academic growth in statistical computing and its application in forestry sector. I am seeking an opportunity to advance my academic career through PhD focusing on learning and applying quantitative / statistical ecology and data science.
 
 # \underline{Education}
 
@@ -139,12 +139,24 @@ I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a 
 
 \small
 
+<!-- |Referee 1|Referee 2| Referee 3| -->
+<!-- |--|--|--| -->
+<!-- | **Shiva Khanal PhD** | **Shes Kanta Bhandari PhD** | **Buddi Sagar Poudel, PhD**| -->
+<!-- |Western Sydney University,Australia|University of Western Australia|Charles Sturt University,Australia| -->
+<!-- | Under Secretary (Tech.), Climate Change Management Division (CCMD) | Assistant Professor, Institute of Forestry, Tribhuvan University | Joint Secretary, Climate Change Management Division (CCMD) | -->
+<!-- |  Ministry of Forests and Environment, Kathmandu, Nepal | **Research Interests:** Forest Biometrics, Forest Growth and Yield Modelling, Individual-based Modelling, Forest Inventory | Ministry of Forests and Environment, Kathmandu, Nepal | -->
+<!-- | **Google Scholar:** [Shiva Khanal](https://scholar.google.com/citations?user=XXXXXXXXXXXX) | **Google Scholar:** [Shes Kanta Bhandari](https://scholar.google.com/citations?user=k9sUEZkAAAAJ) | **ResearchGate:** [Buddi Sagar Poudel](https://www.researchgate.net/profile/Buddi-Poudel) | -->
+<!-- | **Email:** khanalshiva1@gmail.com | **Email:** shes.bhandari@pc.tu.edu.np | **Email:** buddi.poudel@gmail.com, buddhi.poudel@nepal.gov.np | -->
+<!-- | **Phone:** (+977) 9841492155 | **Phone:** (+977) 9765631067 | **Phone:** (+977) 9841460874 | -->
+
 |Referee 1|Referee 2| Referee 3|
 |--|--|--|
-| **Shiva Khanal PhD** | **Shes Kanta Bhandari PhD** | **Buddi Sagar Poudel, PhD**|
-|Western Sydney University,Australia|University of Western Australia|Charles Sturt University,Australia|
-| Under Secretary (Tech.), Climate Change Management Division (CCMD) | Assistant Professor, Institute of Forestry, Tribhuvan University | Joint Secretary, Climate Change Management Division (CCMD) |
-|  Ministry of Forests and Environment, Kathmandu, Nepal | **Research Interests:** Forest Biometrics, Forest Growth and Yield Modelling, Individual-based Modelling, Forest Inventory | Ministry of Forests and Environment, Kathmandu, Nepal |
-| **Google Scholar:** [Shiva Khanal](https://scholar.google.com/citations?user=XXXXXXXXXXXX) | **Google Scholar:** [Shes Kanta Bhandari](https://scholar.google.com/citations?user=k9sUEZkAAAAJ) | **ResearchGate:** [Buddi Sagar Poudel](https://www.researchgate.net/profile/Buddi-Poudel) |
-| **Email:** khanalshiva1@gmail.com | **Email:** shes.bhandari@pc.tu.edu.np | **Email:** buddi.poudel@gmail.com, buddhi.poudel@nepal.gov.np |
-| **Phone:** (+977) 9841492155 | **Phone:** (+977) 9765631067 | **Phone:** (+977) 9841460874 |
+| **Shiva Khanal PhD** | **Shes Kanta Bhandari PhD** | **Prof. Martin Wilmking, Ph.D.**|
+|Western Sydney University,Australia|University of Western Australia|University of Alaska Fairbanks|
+| Under Secretary (Tech.), Climate Change Management Division (CCMD) | Assistant Professor, Institute of Forestry, Tribhuvan University | Professorship Landscape Ecology |
+|  Ministry of Forests and Environment, Kathmandu, Nepal | **Research Interests:** Forest Bio metrics, Forest Growth and Yield Modelling, Individual-based Modelling, Forest Inventory | Soldmannstr. 15, Room 1.37, University of Greifswald |
+| **Google Scholar:** [Shiva Khanal](https://scholar.google.com/citations?user=XXXXXXXXXXXX) | **Google Scholar:** [Shes Kanta Bhandari](https://scholar.google.com/citations?user=k9sUEZkAAAAJ) | **ResearchGate:** [Prof. Martin Wilmking, Ph.D.](https://scholar.google.de/citations?user=zjyPRoUAAAAJ&hl=de) |
+| **Email:** khanalshiva1@gmail.com | **Email:** shes.bhandari@pc.tu.edu.np | **Email:** wilmking(at)uni-greifswald(dot)de|
+| **Phone:** (+977) 9841492155 | **Phone:** (+977) 9765631067 | **Phone:** +49 (0) 3834-4204095 |
+
+
