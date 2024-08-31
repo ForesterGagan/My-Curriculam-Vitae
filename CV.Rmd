@@ -40,13 +40,13 @@ Research Officer/Data Ananlyst/Ecologist
 Email: [forester.prakash@gmail.com](mailto:forester.prakash@gmail.com) | Phone: +977-9845228896 | GitHub: [foresterprakash](https://github.com/foresterprakash) | LinkedIn: [PrakashLamichhane](https://www.linkedin.com/in/PrakashLamichhane) | ORCID: [0000-0002-0355-0222](https://orcid.org/0000-0002-0355-0222)
 
 
-# \underline{About Myself}
+<!-- # \underline{About Myself} -->
 
-\begin{wrapfigure}{r}{0.2\textwidth}
-    \includegraphics[width=0.2\textwidth]{Photo_Prakash.jpg}
-\end{wrapfigure}
+<!-- \begin{wrapfigure}{r}{0.2\textwidth} -->
+<!--     \includegraphics[width=0.2\textwidth]{Photo_Prakash.jpg} -->
+<!-- \end{wrapfigure} -->
 
-I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a strong educational background in Forestry and Landscape Ecology. My career spans practical experience in national forest inventory, data analysis, tree biometrics, application of remote sensing and GIS and carbon monitoring. I had a significant growth on data analysis and statistical application in any sector data with mastering in MS Excel, python and R programming in recent years. I am particularly interested in advancing my academic growth in statistical computing and its application in forestry sector. I am seeking an opportunity to advance my academic career through PhD focusing on learning and applying quantitative / statistical ecology and data science.
+<!-- I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a strong educational background in Forestry and Landscape Ecology. My career spans practical experience in national forest inventory, data analysis, tree biometrics, application of remote sensing and GIS and carbon monitoring. I had a significant growth on data analysis and statistical application in any sector data with mastering in MS Excel, python and R programming in recent years. I am particularly interested in advancing my academic growth in statistical computing and its application in forestry sector. I am seeking an opportunity to advance my academic career through PhD focusing on learning and applying quantitative / statistical ecology and data science. -->
 
 # \underline{Education}
 
@@ -72,17 +72,20 @@ I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a 
 | Part-time    | Lecturer, Natural Resource Economics, Kathmandu Forestry College |
 |||
 
-# \underline{Major Skills}
+# \underline{Research Experience}
 
-- National Forest data analysis and Reporting
-- Mastering MS. Excel and R programming
-- Carbon accounting and MRV process
-- Uncertainty Estimation and Sensitivity Analysis
-- Data Science with Python
-- GIS Tools (QGIS, ARCGIS, Google Earth Engine etc.)
-- Integrated Development Environments (IDEs)(i.e., R Studio, VS code, Pycharm, Jupyter Notebook, Collect Earth Online etc.).
+1. Preparation of National Landcover monitoring System (NLCMS) using RandomForestClassifier.
+2. FRTC, 2020, A study of Opportunities and Constraints for Development of Private forestry Model in Mid-Hill Region of Nepal (A case study from Kavre and Kaski district of Nepal), Forest Research and Training Centre (FRTC), Babarmahal, Kathmandu, Nepal. [Unpublished](https://frtc.gov.np/uploads/files/Private%20forest%20Model(1).pdf)
+3. Preparation of Regional and National Forest Resource assessment (Involvement in field data collection, data analysis and report writing).
+4. Involvement in generating activity data and emission factors for national emission reduction report for MRV purpose in coordination with FCPF and World Bank.
 
-\newpage
+# \underline{Publications}
+
+1. Aryal, S., Paudel, P., Bolakhe, S., Mahatara, D., & Lamichhane, P. (2022). Evaluation of error and efficiency on tree height measurement using Abney’s level, Rangefinder and Vertex IV. *Indian Journal of Forestry*, 45(1), 1–8. [DOI](https://doi.org/10.54207/bsmps1000-2022-49P4F8)
+2. Parajuli, A., Gautam, A. P., Sharma, S., Lamichhane, P., Sharma, G., Bist, B. S., Aryal, U., & Basnet, R. (2022). A Strategy for involving community forest managers in effective forest fire management in Nepal. *Banko Janakari*, 32(1), 41–51. [DOI](https://doi.org/10.3126/banko.v32i1.45476)
+3. Subedi, B., Lamichhane, P., Magar, L. K., & Subedi, T. (2022). Aboveground carbon stocks and sequestration rates of forests under different management regimes in Churia region of Nepal. *Banko Janakari*, 32(1), 15–24. [DOI](https://doi.org/10.3126/banko.v32i1.45442)
+4. Gautam, G. P., Aryal, R. R., & Lamichhane, P. (2018). Restoration of degraded land through Moso bamboo (Phyllostachys pubescens) plantation in the Mid-hills of Nepal. *Banko Janakari*, 150–153. [DOI](https://doi.org/10.3126/banko.v27i3.20560)
+5. Dhakal, R., et al. (2023). Developing Stem Taper of Shorea Robusta in the Far-Western Terai of Nepal. *Banko Janakari*, 33(2), 3–10. [DOI](https://doi.org/10.3126/banko.v33i2.58809)
 
 # \underline{Major Job-Related Trainings as Trainee}
 
@@ -102,6 +105,8 @@ I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a 
 |||||
 |19 Aug - 6 September 2024|Climate Action and Support Transparency Training(CASTT) Programme on GHGs in Seoul,Republic of Korea|**UNFCCC**and Green House Gas Inventory and Research Center, South Korea | [Jeong Eun-hae,President, GIR Korea](https://www.linkedin.com/in/eunhae-jeong-248a40124/)|
 
+<!-- \newpage -->
+
 # \underline{Major Job-Related Trainings as Trainer}
 
 | Duration  | Entitled | Organization|
@@ -118,22 +123,17 @@ I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a 
 3. Hands-on training workshop on transitioning to the ETF, including the preparation of the Biennial Transparency Report for Asia Region dated from 12/03/2024 to 15/03/2024 Singapore.
 4. UN Climate Conference Bonn, Germany dated from 03/06/2024 to 09/06/2024
 
-\newpage
-# \underline{Research Experience}
+# \underline{Major Skills}
 
-1. Preparation of National Landcover monitoring System (NLCMS) using RandomForestClassifier.
-2. FRTC, 2020, A study of Opportunities and Constraints for Development of Private forestry Model in Mid-Hill Region of Nepal (A case study from Kavre and Kaski district of Nepal), Forest Research and Training Centre (FRTC), Babarmahal, Kathmandu, Nepal. [Unpublished](https://frtc.gov.np/uploads/files/Private%20forest%20Model(1).pdf)
-3. Preparation of Regional and National Forest Resource assessment (Involvement in field data collection, data analysis and report writing).
-4. Involvement in generating activity data and emission factors for national emission reduction report for MRV purpose in coordination with FCPF and World Bank.
+- National Forest data analysis and Reporting
+- Mastering MS. Excel and R programming
+- Carbon accounting and MRV process
+- Uncertainty Estimation and Sensitivity Analysis
+- Data Science with Python
+- GIS Tools (QGIS, ARCGIS, Google Earth Engine etc.)
+- Integrated Development Environments (IDEs)(i.e., R Studio, VS code, Pycharm, Jupyter Notebook, Collect Earth Online etc.).
 
-# \underline{Publications}
-
-1. Aryal, S., Paudel, P., Bolakhe, S., Mahatara, D., & Lamichhane, P. (2022). Evaluation of error and efficiency on tree height measurement using Abney’s level, Rangefinder and Vertex IV. *Indian Journal of Forestry*, 45(1), 1–8. [DOI](https://doi.org/10.54207/bsmps1000-2022-49P4F8)
-2. Parajuli, A., Gautam, A. P., Sharma, S., Lamichhane, P., Sharma, G., Bist, B. S., Aryal, U., & Basnet, R. (2022). A Strategy for involving community forest managers in effective forest fire management in Nepal. *Banko Janakari*, 32(1), 41–51. [DOI](https://doi.org/10.3126/banko.v32i1.45476)
-3. Subedi, B., Lamichhane, P., Magar, L. K., & Subedi, T. (2022). Aboveground carbon stocks and sequestration rates of forests under different management regimes in Churia region of Nepal. *Banko Janakari*, 32(1), 15–24. [DOI](https://doi.org/10.3126/banko.v32i1.45442)
-4. Gautam, G. P., Aryal, R. R., & Lamichhane, P. (2018). Restoration of degraded land through Moso bamboo (Phyllostachys pubescens) plantation in the Mid-hills of Nepal. *Banko Janakari*, 150–153. [DOI](https://doi.org/10.3126/banko.v27i3.20560)
-5. Dhakal, R., et al. (2023). Developing Stem Taper of Shorea Robusta in the Far-Western Terai of Nepal. *Banko Janakari*, 33(2), 3–10. [DOI](https://doi.org/10.3126/banko.v33i2.58809)
-
+<!-- \newpage -->
 
 # \underline{References}
 
@@ -158,5 +158,6 @@ I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a 
 | **Google Scholar:** [Shiva Khanal](https://scholar.google.com/citations?user=XXXXXXXXXXXX) | **Google Scholar:** [Shes Kanta Bhandari](https://scholar.google.com/citations?user=k9sUEZkAAAAJ) | **ResearchGate:** [Prof. Martin Wilmking, Ph.D.](https://scholar.google.de/citations?user=zjyPRoUAAAAJ&hl=de) |
 | **Email:** khanalshiva1@gmail.com | **Email:** shes.bhandari@pc.tu.edu.np | **Email:** wilmking(at)uni-greifswald(dot)de|
 | **Phone:** (+977) 9841492155 | **Phone:** (+977) 9765631067 | **Phone:** +49 (0) 3834-4204095 |
+
 
 
